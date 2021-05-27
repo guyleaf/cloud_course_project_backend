@@ -1,7 +1,0 @@
-python-dotenv
-watchdog
-blinker
-Flask
-google-api-python-client
-Flask-APScheduler
-flask-restx
