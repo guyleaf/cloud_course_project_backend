@@ -3,4 +3,5 @@ watchdog
 blinker
 Flask
 google-api-python-client
-apscheduler
+Flask-APScheduler
+flask-restx
